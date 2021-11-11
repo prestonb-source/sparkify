@@ -21,18 +21,17 @@ The specific libraries required are:
 
 ## Project Motivation<a name="motivation"></a>
 
-This project is part of the Udacity Data Science Nanodegree Programme.
+This project is the capstone of the Udacity Data Science Nanodegree Programme. I selected the Pyspark option as I was keen to learn more about, and develop experience of using Pyspark which will be important for working with large datasets.
 
 
 ## File Descriptions <a name="files"></a>
 
-1. `OlympicsNotebook.ipynb` contains the code for data import, analysis, manipulation and visualisation ++ modeling.
-
+1. `Sparkify.ipynb` contains the code for data analysis, wrangling and modeling.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@benpreston9/analyzing-team-gbs-olympic-history-59c0a2001905).
+The main findings of the code can be found at the post available [here](https://medium.com/@benpreston9/predicting-customer-churn-using-spark-f6b5300597a0).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Udacity....
+The structure and data for this project was provided by Udacity as part of the Data Scientist Nanodegree.
