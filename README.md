@@ -27,6 +27,7 @@ This project is the capstone of the Udacity Data Science Nanodegree Programme. I
 ## File Descriptions <a name="files"></a>
 
 1. `Sparkify.ipynb` contains the code for data analysis, wrangling and modeling.
+n.b. I could not upload the datafile as it was too big for Github
 
 ## Results<a name="results"></a>
 
